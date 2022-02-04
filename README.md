@@ -7,4 +7,4 @@ _"Without music, life would be a mistake"_ , Friedrich Nietzsche
 
 |Birthday  |Favorite color| Favorite food| Pineapple on pizza?|
 |:---------------------|:------------------------------|:----|:---|
-|14/07/1998            |purple  | Bacon | - [] |
+|14/07/1998            |purple  | Bacon | <input type="checkbox">|
